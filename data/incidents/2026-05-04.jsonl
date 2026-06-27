@@ -1,0 +1,22 @@
+{"id": "75a244882c77", "date": "2026-05-04", "kommune": "Aarhus", "type": "Narko", "by": "Aarhus C", "vej": "Bygaden", "time": "14:34", "x": 10.0736, "y": 56.1053, "source": "mock"}
+{"id": "c1f570524dd3", "date": "2026-05-04", "kommune": "Aarhus", "type": "Spirituskørsel", "by": "Viby J", "vej": "Parkvej", "time": "11:05", "x": 10.137, "y": 56.2081, "source": "mock"}
+{"id": "baaeb80d12eb", "date": "2026-05-04", "kommune": "Aarhus", "type": "Hærværk", "by": "Risskov", "vej": "Skovvej", "time": "15:36", "x": 10.0029, "y": 56.1795, "source": "mock"}
+{"id": "6dd5ed5566a3", "date": "2026-05-04", "kommune": "Aarhus", "type": "Narko", "by": "Aarhus C", "vej": "Bygaden", "time": "02:05", "x": 10.1279, "y": 56.2192, "source": "mock"}
+{"id": "1ec7fa9c131c", "date": "2026-05-04", "kommune": "Aarhus", "type": "Hærværk", "by": "Brabrand", "vej": "Møllevej", "time": "23:44", "x": 10.1162, "y": 56.1529, "source": "mock"}
+{"id": "61f33a3e69c2", "date": "2026-05-04", "kommune": "Aarhus", "type": "Hærværk", "by": "Aarhus C", "vej": "Skovvej", "time": "09:38", "x": 10.0175, "y": 56.1027, "source": "mock"}
+{"id": "9bb710fea676", "date": "2026-05-04", "kommune": "Aarhus", "type": "Spirituskørsel", "by": "Aarhus C", "vej": "Engvej", "time": "19:42", "x": 10.1841, "y": 56.1307, "source": "mock"}
+{"id": "2fa3d0286112", "date": "2026-05-04", "kommune": "Aarhus", "type": "Indbrud", "by": "Brabrand", "vej": "Hovedgaden", "time": "21:39", "x": 10.0405, "y": 56.1204, "source": "mock"}
+{"id": "450f0d83c62f", "date": "2026-05-04", "kommune": "Aarhus", "type": "Spirituskørsel", "by": "Risskov", "vej": "Engvej", "time": "07:20", "x": 10.081, "y": 56.1301, "source": "mock"}
+{"id": "3029779a1df2", "date": "2026-05-04", "kommune": "Aarhus", "type": "Færdsel", "by": "Viby J", "vej": "Søndergade", "time": "12:14", "x": 10.1166, "y": 56.138, "source": "mock"}
+{"id": "5b6629f0f9aa", "date": "2026-05-04", "kommune": "Randers", "type": "Hærværk", "by": "Dronningborg", "vej": "Bygaden", "time": "08:52", "x": 9.9338, "y": 56.5341, "source": "mock"}
+{"id": "ea265f9effb1", "date": "2026-05-04", "kommune": "Syddjurs", "type": "Færdsel", "by": "Ebeltoft", "vej": "Møllevej", "time": "20:33", "x": 10.6588, "y": 56.2478, "source": "mock"}
+{"id": "967261241bdd", "date": "2026-05-04", "kommune": "Syddjurs", "type": "Hærværk", "by": "Hornslet", "vej": "Engvej", "time": "10:04", "x": 10.7257, "y": 56.2434, "source": "mock"}
+{"id": "d15558d8bf0d", "date": "2026-05-04", "kommune": "Syddjurs", "type": "Færdsel", "by": "Hornslet", "vej": "Industrivej", "time": "18:22", "x": 10.6218, "y": 56.305, "source": "mock"}
+{"id": "87c059b2edd7", "date": "2026-05-04", "kommune": "Norddjurs", "type": "Indbrud", "by": "Auning", "vej": "Søndergade", "time": "04:50", "x": 10.5194, "y": 56.4655, "source": "mock"}
+{"id": "3f5f063d90ab", "date": "2026-05-04", "kommune": "Norddjurs", "type": "Tyveri", "by": "Allingåbro", "vej": "Parkvej", "time": "02:43", "x": 10.5496, "y": 56.4889, "source": "mock"}
+{"id": "a76f9e915337", "date": "2026-05-04", "kommune": "Favrskov", "type": "Færdsel", "by": "Hinnerup", "vej": "Skovvej", "time": "05:14", "x": 9.8845, "y": 56.3015, "source": "mock"}
+{"id": "ac88f216c709", "date": "2026-05-04", "kommune": "Favrskov", "type": "Færdsel", "by": "Hadsten", "vej": "Hovedgaden", "time": "12:54", "x": 9.9884, "y": 56.3687, "source": "mock"}
+{"id": "15d36ae7ece6", "date": "2026-05-04", "kommune": "Favrskov", "type": "Indbrud", "by": "Hadsten", "vej": "Møllevej", "time": "04:28", "x": 9.9207, "y": 56.3351, "source": "mock"}
+{"id": "c5323f8fb53a", "date": "2026-05-04", "kommune": "Odder", "type": "Færdsel", "by": "Saksild", "vej": "Engvej", "time": "10:41", "x": 10.2365, "y": 55.8819, "source": "mock"}
+{"id": "c6f6fce3a0ca", "date": "2026-05-04", "kommune": "Samsø", "type": "Færdsel", "by": "Tranebjerg", "vej": "Søndergade", "time": "07:57", "x": 10.588, "y": 55.8305, "source": "mock"}
+{"id": "891d15f25afc", "date": "2026-05-04", "kommune": "Samsø", "type": "Færdsel", "by": "Onsbjerg", "vej": "Industrivej", "time": "22:54", "x": 10.5131, "y": 55.8806, "source": "mock"}

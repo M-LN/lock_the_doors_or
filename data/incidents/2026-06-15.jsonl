@@ -1,0 +1,22 @@
+{"id": "75ecba77a687", "date": "2026-06-15", "kommune": "Aarhus", "type": "Narko", "by": "Tilst", "vej": "Møllevej", "time": "18:40", "x": 10.0375, "y": 56.2178, "source": "mock"}
+{"id": "4bfd92dd4c6d", "date": "2026-06-15", "kommune": "Aarhus", "type": "Narko", "by": "Tilst", "vej": "Møllevej", "time": "20:46", "x": 10.0561, "y": 56.1032, "source": "mock"}
+{"id": "7db9015b1ebc", "date": "2026-06-15", "kommune": "Aarhus", "type": "Vold", "by": "Tilst", "vej": "Møllevej", "time": "18:34", "x": 10.1195, "y": 56.146, "source": "mock"}
+{"id": "d524ed4a99bf", "date": "2026-06-15", "kommune": "Aarhus", "type": "Færdsel", "by": "Tilst", "vej": "Engvej", "time": "00:41", "x": 10.1015, "y": 56.197, "source": "mock"}
+{"id": "136ca5dd8996", "date": "2026-06-15", "kommune": "Aarhus", "type": "Færdsel", "by": "Aarhus C", "vej": "Bygaden", "time": "02:26", "x": 10.1622, "y": 56.1408, "source": "mock"}
+{"id": "1f59cb59449f", "date": "2026-06-15", "kommune": "Aarhus", "type": "Færdsel", "by": "Viby J", "vej": "Hovedgaden", "time": "11:06", "x": 10.1496, "y": 56.1818, "source": "mock"}
+{"id": "d6e37ae61e5d", "date": "2026-06-15", "kommune": "Aarhus", "type": "Færdsel", "by": "Brabrand", "vej": "Parkvej", "time": "04:18", "x": 10.1525, "y": 56.211, "source": "mock"}
+{"id": "bf2ebc46ff39", "date": "2026-06-15", "kommune": "Aarhus", "type": "Indbrud", "by": "Aarhus C", "vej": "Skovvej", "time": "04:40", "x": 10.1148, "y": 56.1254, "source": "mock"}
+{"id": "5e6039b39bf1", "date": "2026-06-15", "kommune": "Randers", "type": "Færdsel", "by": "Dronningborg", "vej": "Hovedgaden", "time": "05:53", "x": 10.0226, "y": 56.5753, "source": "mock"}
+{"id": "01b13d242169", "date": "2026-06-15", "kommune": "Randers", "type": "Spirituskørsel", "by": "Randers C", "vej": "Engvej", "time": "18:11", "x": 10.0938, "y": 56.559, "source": "mock"}
+{"id": "80c0e19d05ac", "date": "2026-06-15", "kommune": "Randers", "type": "Færdsel", "by": "Dronningborg", "vej": "Parkvej", "time": "06:22", "x": 9.9468, "y": 56.4865, "source": "mock"}
+{"id": "b40e8c8903da", "date": "2026-06-15", "kommune": "Randers", "type": "Færdsel", "by": "Randers C", "vej": "Industrivej", "time": "20:12", "x": 9.9413, "y": 56.5604, "source": "mock"}
+{"id": "53928ce4e591", "date": "2026-06-15", "kommune": "Randers", "type": "Færdsel", "by": "Dronningborg", "vej": "Søndergade", "time": "09:16", "x": 10.0719, "y": 56.5689, "source": "mock"}
+{"id": "035da54d0026", "date": "2026-06-15", "kommune": "Randers", "type": "Færdsel", "by": "Randers NØ", "vej": "Bygaden", "time": "00:08", "x": 10.017, "y": 56.5236, "source": "mock"}
+{"id": "74711566d635", "date": "2026-06-15", "kommune": "Syddjurs", "type": "Færdsel", "by": "Ebeltoft", "vej": "Industrivej", "time": "18:54", "x": 10.726, "y": 56.3273, "source": "mock"}
+{"id": "9f9059b43e03", "date": "2026-06-15", "kommune": "Syddjurs", "type": "Færdsel", "by": "Hornslet", "vej": "Parkvej", "time": "04:47", "x": 10.6564, "y": 56.3003, "source": "mock"}
+{"id": "bd19a4edf480", "date": "2026-06-15", "kommune": "Syddjurs", "type": "Færdsel", "by": "Hornslet", "vej": "Bygaden", "time": "21:30", "x": 10.6576, "y": 56.2249, "source": "mock"}
+{"id": "3a742a467717", "date": "2026-06-15", "kommune": "Norddjurs", "type": "Færdsel", "by": "Grenå", "vej": "Søndergade", "time": "11:47", "x": 10.6622, "y": 56.4304, "source": "mock"}
+{"id": "de2599e1d3f9", "date": "2026-06-15", "kommune": "Favrskov", "type": "Vold", "by": "Hammel", "vej": "Bygaden", "time": "15:11", "x": 9.8748, "y": 56.3696, "source": "mock"}
+{"id": "9a5f212d2752", "date": "2026-06-15", "kommune": "Favrskov", "type": "Færdsel", "by": "Hammel", "vej": "Engvej", "time": "16:14", "x": 9.8486, "y": 56.3663, "source": "mock"}
+{"id": "9cb2d66fe8c8", "date": "2026-06-15", "kommune": "Odder", "type": "Narko", "by": "Odder", "vej": "Bygaden", "time": "01:42", "x": 10.2205, "y": 55.9168, "source": "mock"}
+{"id": "21ac18f58e1b", "date": "2026-06-15", "kommune": "Odder", "type": "Færdsel", "by": "Saksild", "vej": "Engvej", "time": "02:43", "x": 10.2226, "y": 55.9751, "source": "mock"}

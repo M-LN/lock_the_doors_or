@@ -1,0 +1,51 @@
+name: daily-ro-index
+
+on:
+  schedule:
+    # 06:10 UTC ~ 08:10 Europe/Copenhagen — after the morning report is up.
+    - cron: "10 6 * * *"
+  workflow_dispatch: {}   # allow manual runs
+
+# Never let two runs commit on top of each other.
+concurrency:
+  group: ro-index
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # the job commits the new data back to the repo
+
+jobs:
+  ingest-and-score:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Ingest yesterday's reports
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/ingest.py
+
+      - name: Rebuild scores from the full log
+        run: python scripts/build_scores.py
+
+      - name: Commit new data
+        run: |
+          git config user.name  "ro-index-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/incidents web/daily_scores.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: ro-index $(date -u +%Y-%m-%d)"
+            git push
+          fi

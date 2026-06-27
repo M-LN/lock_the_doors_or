@@ -1,0 +1,33 @@
+{"id": "22d9044d7fe5", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Risskov", "vej": "Industrivej", "time": "17:52", "x": 10.1332, "y": 56.1963, "source": "mock"}
+{"id": "42dc4d809690", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Risskov", "vej": "Møllevej", "time": "22:26", "x": 10.0501, "y": 56.2092, "source": "mock"}
+{"id": "3713c915b4d6", "date": "2026-05-12", "kommune": "Aarhus", "type": "Indbrud", "by": "Tilst", "vej": "Hovedgaden", "time": "07:20", "x": 10.0777, "y": 56.1443, "source": "mock"}
+{"id": "0232fc9a7f04", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Brabrand", "vej": "Engvej", "time": "11:19", "x": 10.0558, "y": 56.2086, "source": "mock"}
+{"id": "9231f6778c3c", "date": "2026-05-12", "kommune": "Aarhus", "type": "Narko", "by": "Aarhus C", "vej": "Industrivej", "time": "10:13", "x": 10.1483, "y": 56.1254, "source": "mock"}
+{"id": "6eda3e4e0c77", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Tilst", "vej": "Industrivej", "time": "21:13", "x": 10.0355, "y": 56.1127, "source": "mock"}
+{"id": "d38fcf39aa4f", "date": "2026-05-12", "kommune": "Aarhus", "type": "Indbrud", "by": "Brabrand", "vej": "Hovedgaden", "time": "13:01", "x": 10.0019, "y": 56.1603, "source": "mock"}
+{"id": "8c5fe1dcbb48", "date": "2026-05-12", "kommune": "Aarhus", "type": "Tyveri", "by": "Brabrand", "vej": "Søndergade", "time": "00:56", "x": 10.0349, "y": 56.108, "source": "mock"}
+{"id": "eb432e04c941", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Tilst", "vej": "Parkvej", "time": "13:30", "x": 10.1925, "y": 56.1264, "source": "mock"}
+{"id": "78177be7f85a", "date": "2026-05-12", "kommune": "Aarhus", "type": "Tyveri", "by": "Viby J", "vej": "Industrivej", "time": "02:43", "x": 10.078, "y": 56.2105, "source": "mock"}
+{"id": "409e34a37e33", "date": "2026-05-12", "kommune": "Aarhus", "type": "Hærværk", "by": "Brabrand", "vej": "Skovvej", "time": "04:46", "x": 10.1269, "y": 56.1454, "source": "mock"}
+{"id": "5921558a954e", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Viby J", "vej": "Parkvej", "time": "14:54", "x": 10.1429, "y": 56.1509, "source": "mock"}
+{"id": "6381d98ba4d6", "date": "2026-05-12", "kommune": "Aarhus", "type": "Spirituskørsel", "by": "Aarhus C", "vej": "Bygaden", "time": "23:44", "x": 10.1488, "y": 56.1523, "source": "mock"}
+{"id": "f1202b1f5d6c", "date": "2026-05-12", "kommune": "Aarhus", "type": "Tyveri", "by": "Risskov", "vej": "Søndergade", "time": "12:38", "x": 10.1082, "y": 56.1051, "source": "mock"}
+{"id": "92220e6d6855", "date": "2026-05-12", "kommune": "Aarhus", "type": "Færdsel", "by": "Tilst", "vej": "Engvej", "time": "14:18", "x": 10.1187, "y": 56.1713, "source": "mock"}
+{"id": "79d1e4467736", "date": "2026-05-12", "kommune": "Randers", "type": "Spirituskørsel", "by": "Dronningborg", "vej": "Parkvej", "time": "06:47", "x": 9.9938, "y": 56.5462, "source": "mock"}
+{"id": "1f4987ddfa11", "date": "2026-05-12", "kommune": "Randers", "type": "Indbrud", "by": "Randers C", "vej": "Engvej", "time": "03:14", "x": 9.9374, "y": 56.5909, "source": "mock"}
+{"id": "e4fa88789516", "date": "2026-05-12", "kommune": "Randers", "type": "Færdsel", "by": "Randers C", "vej": "Bygaden", "time": "03:32", "x": 9.9504, "y": 56.5114, "source": "mock"}
+{"id": "a39583707996", "date": "2026-05-12", "kommune": "Randers", "type": "Indbrud", "by": "Randers C", "vej": "Parkvej", "time": "08:33", "x": 10.0614, "y": 56.5345, "source": "mock"}
+{"id": "40a746087dd8", "date": "2026-05-12", "kommune": "Randers", "type": "Tyveri", "by": "Randers NØ", "vej": "Søndergade", "time": "15:17", "x": 10.0923, "y": 56.5086, "source": "mock"}
+{"id": "64d4466c9db1", "date": "2026-05-12", "kommune": "Randers", "type": "Færdsel", "by": "Randers NØ", "vej": "Engvej", "time": "07:04", "x": 10.06, "y": 56.5826, "source": "mock"}
+{"id": "7a07214fd2a9", "date": "2026-05-12", "kommune": "Syddjurs", "type": "Tyveri", "by": "Rønde", "vej": "Hovedgaden", "time": "11:11", "x": 10.5801, "y": 56.2144, "source": "mock"}
+{"id": "b2bf071e99eb", "date": "2026-05-12", "kommune": "Syddjurs", "type": "Narko", "by": "Rønde", "vej": "Industrivej", "time": "03:26", "x": 10.5963, "y": 56.2566, "source": "mock"}
+{"id": "e690ff710cec", "date": "2026-05-12", "kommune": "Syddjurs", "type": "Hærværk", "by": "Hornslet", "vej": "Engvej", "time": "15:04", "x": 10.5777, "y": 56.2879, "source": "mock"}
+{"id": "7f00b8871c41", "date": "2026-05-12", "kommune": "Syddjurs", "type": "Tyveri", "by": "Ebeltoft", "vej": "Søndergade", "time": "17:42", "x": 10.7589, "y": 56.2554, "source": "mock"}
+{"id": "449a39e294e6", "date": "2026-05-12", "kommune": "Norddjurs", "type": "Spirituskørsel", "by": "Allingåbro", "vej": "Søndergade", "time": "22:13", "x": 10.5461, "y": 56.4054, "source": "mock"}
+{"id": "37d2c9cecdc0", "date": "2026-05-12", "kommune": "Norddjurs", "type": "Færdsel", "by": "Auning", "vej": "Skovvej", "time": "04:17", "x": 10.5332, "y": 56.5029, "source": "mock"}
+{"id": "e1442d2ef299", "date": "2026-05-12", "kommune": "Odder", "type": "Færdsel", "by": "Hou", "vej": "Parkvej", "time": "09:49", "x": 10.1217, "y": 55.8876, "source": "mock"}
+{"id": "d91e34fe2d51", "date": "2026-05-12", "kommune": "Odder", "type": "Færdsel", "by": "Saksild", "vej": "Parkvej", "time": "19:26", "x": 10.0958, "y": 55.8861, "source": "mock"}
+{"id": "af76136d5a88", "date": "2026-05-12", "kommune": "Odder", "type": "Færdsel", "by": "Odder", "vej": "Parkvej", "time": "16:45", "x": 10.1236, "y": 55.9291, "source": "mock"}
+{"id": "65c4d40d3e65", "date": "2026-05-12", "kommune": "Odder", "type": "Færdsel", "by": "Odder", "vej": "Industrivej", "time": "02:43", "x": 10.1697, "y": 55.8971, "source": "mock"}
+{"id": "60a18ef103c1", "date": "2026-05-12", "kommune": "Samsø", "type": "Indbrud", "by": "Onsbjerg", "vej": "Søndergade", "time": "14:40", "x": 10.5228, "y": 55.8703, "source": "mock"}
+{"id": "a1cd4b7400ec", "date": "2026-05-12", "kommune": "Samsø", "type": "Færdsel", "by": "Onsbjerg", "vej": "Industrivej", "time": "09:42", "x": 10.649, "y": 55.9006, "source": "mock"}

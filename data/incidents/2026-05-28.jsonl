@@ -1,0 +1,28 @@
+{"id": "a91cb7b9c914", "date": "2026-05-28", "kommune": "Aarhus", "type": "Færdsel", "by": "Risskov", "vej": "Industrivej", "time": "17:03", "x": 10.1079, "y": 56.1818, "source": "mock"}
+{"id": "80e3f5a03e91", "date": "2026-05-28", "kommune": "Aarhus", "type": "Indbrud", "by": "Risskov", "vej": "Møllevej", "time": "03:41", "x": 10.1806, "y": 56.1539, "source": "mock"}
+{"id": "3621bbce059b", "date": "2026-05-28", "kommune": "Aarhus", "type": "Færdsel", "by": "Risskov", "vej": "Engvej", "time": "13:14", "x": 10.1052, "y": 56.1066, "source": "mock"}
+{"id": "492845f37eb7", "date": "2026-05-28", "kommune": "Aarhus", "type": "Vold", "by": "Tilst", "vej": "Hovedgaden", "time": "15:49", "x": 10.1219, "y": 56.1881, "source": "mock"}
+{"id": "8cee1d0af6e2", "date": "2026-05-28", "kommune": "Aarhus", "type": "Færdsel", "by": "Risskov", "vej": "Møllevej", "time": "12:48", "x": 10.151, "y": 56.1031, "source": "mock"}
+{"id": "b3eb8ee040ad", "date": "2026-05-28", "kommune": "Aarhus", "type": "Tyveri", "by": "Brabrand", "vej": "Hovedgaden", "time": "02:32", "x": 10.1231, "y": 56.1547, "source": "mock"}
+{"id": "283290d36c57", "date": "2026-05-28", "kommune": "Aarhus", "type": "Hærværk", "by": "Aarhus C", "vej": "Engvej", "time": "09:32", "x": 10.0097, "y": 56.2075, "source": "mock"}
+{"id": "d92ef239ffdf", "date": "2026-05-28", "kommune": "Aarhus", "type": "Narko", "by": "Risskov", "vej": "Skovvej", "time": "19:45", "x": 10.1661, "y": 56.1781, "source": "mock"}
+{"id": "a6d5813071f0", "date": "2026-05-28", "kommune": "Aarhus", "type": "Indbrud", "by": "Aarhus C", "vej": "Hovedgaden", "time": "16:11", "x": 10.092, "y": 56.1199, "source": "mock"}
+{"id": "17965d25329f", "date": "2026-05-28", "kommune": "Aarhus", "type": "Narko", "by": "Viby J", "vej": "Hovedgaden", "time": "10:02", "x": 10.1808, "y": 56.1072, "source": "mock"}
+{"id": "e83925fbaa79", "date": "2026-05-28", "kommune": "Aarhus", "type": "Færdsel", "by": "Risskov", "vej": "Engvej", "time": "04:59", "x": 10.0239, "y": 56.1651, "source": "mock"}
+{"id": "8617506fcbd4", "date": "2026-05-28", "kommune": "Aarhus", "type": "Spirituskørsel", "by": "Brabrand", "vej": "Bygaden", "time": "09:46", "x": 10.0171, "y": 56.1823, "source": "mock"}
+{"id": "1c7045229ad7", "date": "2026-05-28", "kommune": "Randers", "type": "Indbrud", "by": "Dronningborg", "vej": "Hovedgaden", "time": "20:48", "x": 9.915, "y": 56.5238, "source": "mock"}
+{"id": "7501e3edd744", "date": "2026-05-28", "kommune": "Randers", "type": "Færdsel", "by": "Randers C", "vej": "Skovvej", "time": "12:26", "x": 9.9246, "y": 56.5624, "source": "mock"}
+{"id": "200645f28657", "date": "2026-05-28", "kommune": "Randers", "type": "Færdsel", "by": "Randers NØ", "vej": "Bygaden", "time": "12:44", "x": 10.0609, "y": 56.5268, "source": "mock"}
+{"id": "68c9d86b8d3b", "date": "2026-05-28", "kommune": "Randers", "type": "Tyveri", "by": "Randers C", "vej": "Parkvej", "time": "01:47", "x": 9.9322, "y": 56.5681, "source": "mock"}
+{"id": "9ddfa07c863f", "date": "2026-05-28", "kommune": "Randers", "type": "Færdsel", "by": "Randers NØ", "vej": "Hovedgaden", "time": "02:29", "x": 10.0708, "y": 56.5964, "source": "mock"}
+{"id": "b1d81593f296", "date": "2026-05-28", "kommune": "Syddjurs", "type": "Tyveri", "by": "Rønde", "vej": "Engvej", "time": "16:29", "x": 10.7553, "y": 56.2654, "source": "mock"}
+{"id": "462d35391302", "date": "2026-05-28", "kommune": "Syddjurs", "type": "Tyveri", "by": "Hornslet", "vej": "Parkvej", "time": "18:28", "x": 10.7482, "y": 56.2426, "source": "mock"}
+{"id": "0e48ca34ad39", "date": "2026-05-28", "kommune": "Syddjurs", "type": "Hærværk", "by": "Ebeltoft", "vej": "Skovvej", "time": "09:38", "x": 10.6525, "y": 56.3214, "source": "mock"}
+{"id": "fb42b93423d3", "date": "2026-05-28", "kommune": "Syddjurs", "type": "Færdsel", "by": "Hornslet", "vej": "Søndergade", "time": "05:42", "x": 10.7021, "y": 56.3248, "source": "mock"}
+{"id": "039df0576c15", "date": "2026-05-28", "kommune": "Syddjurs", "type": "Færdsel", "by": "Ebeltoft", "vej": "Industrivej", "time": "17:05", "x": 10.6241, "y": 56.2166, "source": "mock"}
+{"id": "c8d93c5d3b22", "date": "2026-05-28", "kommune": "Norddjurs", "type": "Færdsel", "by": "Grenå", "vej": "Industrivej", "time": "14:01", "x": 10.5694, "y": 56.4889, "source": "mock"}
+{"id": "496bd4181b47", "date": "2026-05-28", "kommune": "Norddjurs", "type": "Færdsel", "by": "Grenå", "vej": "Parkvej", "time": "14:27", "x": 10.5201, "y": 56.3934, "source": "mock"}
+{"id": "a2190d0e1a76", "date": "2026-05-28", "kommune": "Norddjurs", "type": "Færdsel", "by": "Allingåbro", "vej": "Bygaden", "time": "15:35", "x": 10.5978, "y": 56.4004, "source": "mock"}
+{"id": "e9de32a22789", "date": "2026-05-28", "kommune": "Norddjurs", "type": "Færdsel", "by": "Allingåbro", "vej": "Hovedgaden", "time": "18:30", "x": 10.5626, "y": 56.4475, "source": "mock"}
+{"id": "1dce4708f10e", "date": "2026-05-28", "kommune": "Norddjurs", "type": "Færdsel", "by": "Auning", "vej": "Søndergade", "time": "19:27", "x": 10.5617, "y": 56.4795, "source": "mock"}
+{"id": "3979b85ce003", "date": "2026-05-28", "kommune": "Odder", "type": "Tyveri", "by": "Saksild", "vej": "Parkvej", "time": "11:00", "x": 10.0933, "y": 55.9452, "source": "mock"}
