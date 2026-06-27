@@ -77,21 +77,22 @@ the UI ("indsamler baseline") instead of pretending a quiet day is signal.
 `score` is `null` for the first days of a kommune's history (no prior
 same-weekday data yet) — the frontend should render that as a gap.
 
-## Wiring the frontend
+## Frontend — `web/index.html`
 
-The prototype currently inlines `const DATA = {...}`. To go live, replace it
-with a fetch and merge the static centroids (from the GeoJSON) by name:
+`web/index.html` is the live frontend. It inlines the static GeoJSON (geometry
++ centroids) and `fetch`es `daily_scores.json` at load, merging centroids onto
+each kommune by name. It handles `null` scores as cold-start gaps: greyed-out
+choropleth fill, an em dash in chips/rings, "Afventer baseline" mood text, and
+broken (not interpolated) lines in the sparklines and trend chart.
 
-```js
-const DATA = await (await fetch('./daily_scores.json', {cache:'no-store'})).json();
-// centroids live in the static GeoJSON; attach them by kommune name:
-DATA.kommuner.forEach(k => {
-  const f = GEO.features.find(f => f.properties.name === k.name);
-  k.cx = f.properties.cx; k.cy = f.properties.cy;
-});
+It must be served over HTTP — `fetch` from `file://` is blocked by browsers:
+
+```bash
+cd web && python -m http.server 8000   # then open http://localhost:8000
 ```
 
-Everything else in the prototype already reads these field names.
+The Action commits an updated `daily_scores.json` daily; the page picks it up on
+next load (it requests with `cache: 'no-store'`).
 
 ## Run locally
 
