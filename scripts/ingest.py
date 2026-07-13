@@ -52,7 +52,8 @@ def iter_report_urls(since: dt.date):
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
-        page.goto(url, wait_until="networkidle")
+        page.goto(url, wait_until="load", timeout=60000)
+        page.wait_for_selector("a[href*='/doegnrapporter/']", timeout=30000)
         hrefs = page.eval_on_selector_all(
             "a[href*='/doegnrapporter/']",
             "els => els.map(e => e.href)")
