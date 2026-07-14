@@ -99,7 +99,10 @@ EXTRACT_SYS = (
 def extract_incidents(text: str, model="claude-haiku-4-5-20251001"):
     """Call the Anthropic API and return a list of incident dicts."""
     from anthropic import Anthropic
-    client = Anthropic()  # reads ANTHROPIC_API_KEY
+    api_key = (os.getenv("ANTHROPIC_API_KEY") or "").strip()
+    if not api_key:
+        raise SystemExit("ANTHROPIC_API_KEY is not set; skipping incident extraction.")
+    client = Anthropic(api_key=api_key)
     msg = client.messages.create(
         model=model, max_tokens=2000,
         system=EXTRACT_SYS,
