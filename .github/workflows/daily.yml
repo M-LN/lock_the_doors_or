@@ -33,7 +33,12 @@ jobs:
       - name: Ingest yesterday's reports
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/ingest.py
+        run: |
+          if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
+            echo "Skipping ingest: ANTHROPIC_API_KEY is not configured."
+            exit 0
+          fi
+          python scripts/ingest.py
 
       - name: Rebuild scores from the full log
         run: python scripts/build_scores.py
